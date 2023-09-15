@@ -10,16 +10,26 @@
 Repositorio para TPs del Grupo 3 "Hackers Panas" de la materia Organización de Datos (Rodríguez) de la FIUBA.
 </p>
 
-<hr width="35%" align="left" />
+<hr width="35%" align="left" style="height:1px"/>
 
 ## Índice
 
-* [Participantes](#participantes)
 * [Propósito](#propósito)
+* [Participantes](#participantes)
 * [Estructura](#estructura)
 
-<hr width="35%" align="left" />
+<hr width="35%" align="left" style="height:1px"/>
 <br/>
+
+## Propósito
+
+Aquí archivaremos las notebooks (`.ipynb`) de los trabajos prácticos, así como los datasets con los que funcionan, que son lo mínimo y necesario para funcionar.
+
+* Esto quiere decir que, por ejemplo, no guardaremos los PDFs de enunciados ni el _paper_ que usamos como fuente de datos, salvo explícitamente expuesto lo contrario.
+
+* _Lo mismo podría quedar sujeto a modificaciones después._
+
+<br/><br/>
 
 ## Participantes
 
@@ -79,25 +89,15 @@ Además de los siguientes correctores:
 
 <br/><br/>
 
-## Propósito
-
-Aquí archivaremos las notebooks (`.ipynb`) de los trabajos prácticos, así como los datasets con los que funcionan, que son lo mínimo y necesario para funcionar.
-
-* Esto quiere decir que, por ejemplo, no guardaremos los PDFs de enunciados ni el _paper_ que usamos como fuente de datos, salvo explícitamente expuesto lo contrario.
-
-* _Lo mismo podría quedar sujeto a modificaciones después._
-
-<br/><br/>
-
 ## Estructura
 
 Se considera el siguiente estilo:
 ```
-├─ /media
+├─ media/
 │
-└─ /TPs
+└─ TPs/
    ├─ /TP1
-   │   ├─ /Datasets
+   │   ├─ Datasets/
    │   ├─ chp1.ipynb
    │   ├─ chp2.ipynb
    │   └─ [...]
@@ -108,13 +108,13 @@ Se considera el siguiente estilo:
 
 Se consideró una separación de modo:
 ```
-├─ /TP1
-│   ├─ /Datasets
-│   ├─ /Checkpoint 1
-│   │   ├─ chp1.ipynb
+├─ TP1/
+│   ├─ Datasets/
+│   ├─ Checkpoint 1/
+│   │   ├─ *.ipynb
 │   │   └─ [...]
 │   │
-│   ├─ /Checkpoint 2
+│   ├─ Checkpoint 2/
 │   │
 │   └─ [...]
 │
