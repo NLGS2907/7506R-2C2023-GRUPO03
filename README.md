@@ -7,7 +7,7 @@
      width="300px"
 />
 
-Repositorio para TPs del Grupo 3 de la materia Organización de Datos (Rodríguez) de la FIUBA.
+Repositorio para TPs del Grupo 3 "Hackers Panas" de la materia Organización de Datos (Rodríguez) de la FIUBA.
 </p>
 
 <hr width="35%" align="left" />
@@ -19,6 +19,7 @@ Repositorio para TPs del Grupo 3 de la materia Organización de Datos (Rodrígue
 * [Estructura](#estructura)
 
 <hr width="35%" align="left" />
+<br/>
 
 ## Participantes
 
@@ -76,7 +77,7 @@ Además de los siguientes correctores:
 [PipoM](https://github.com/PipoM)
 </p>
 
-<hr width="15%" align="left" style="height:1px" />
+<br/><br/>
 
 ## Propósito
 
@@ -86,7 +87,7 @@ Aquí archivaremos las notebooks (`.ipynb`) de los trabajos prácticos, así com
 
 * _Lo mismo podría quedar sujeto a modificaciones después._
 
-<hr width="15%" align="left" style="height:1px" />
+<br/><br/>
 
 ## Estructura
 
