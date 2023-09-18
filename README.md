@@ -35,19 +35,19 @@ Aquí archivaremos las notebooks (`.ipynb`) de los trabajos prácticos, así com
 
 Este repositorio cuenta con los siguientes colaboradores:
 
-<p align="left">
+<p>
 <img align="left" src="https://github.com/NLGS2907.png" height=32 width=32 />
 
 [Franco Lighterman Reismann](https://github.com/NLGS2907)
 </p>
 
-<p align="left">
+<p>
 <img align="left" src="https://github.com/MarcosGN.png" height=32 width=32 />
 
 [Marcos García Neira](https://github.com/MarcosGN)
 </p>
 
-<p align="left">
+<p>
 <img align="left" src="https://github.com/mmaddalena.png" height=32 width=32 />
 
 [Martín Andrés Madalena](https://github.com/mmaddalena)
@@ -96,13 +96,13 @@ Se considera el siguiente estilo:
 ├─ media/
 │
 └─ TPs/
-   ├─ /TP1
+   ├─ TP1/
    │   ├─ Datasets/
    │   ├─ chp1.ipynb
    │   ├─ chp2.ipynb
    │   └─ [...]
    │
-   └─ /TP2
+   └─ TP2/
        └─ [...]
 ```
 
