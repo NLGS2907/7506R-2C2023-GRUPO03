@@ -95,7 +95,7 @@ Se utiliza el siguiente estilo:
 ```
 ├─ media/
 │
-└─ tps/
+└─ TPs/
    ├─ TP1/
    │   ├─ Datasets/
    │   ├─ chp1.ipynb
