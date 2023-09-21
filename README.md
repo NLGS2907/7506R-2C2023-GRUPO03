@@ -91,11 +91,11 @@ Además de los siguientes correctores:
 
 ## Estructura
 
-Se considera el siguiente estilo:
+Se utiliza el siguiente estilo:
 ```
 ├─ media/
 │
-└─ TPs/
+└─ tps/
    ├─ TP1/
    │   ├─ Datasets/
    │   ├─ chp1.ipynb
@@ -120,4 +120,5 @@ Se consideró una separación de modo:
 │
 ```
 
-pero esto confundiría a los archivos `.ipynb` en donde cada uno tendría un _path_ distinto a los datasets. Por ello se resolvió dejarlos sueltos en un lugar en común. 
+pero esto confundiría a los archivos `.ipynb` en donde cada uno tendría un _path_ distinto a los datasets. Por ello se resolvió dejarlos sueltos en un lugar en común.
+* _En algunos casos quizás usemos directamente el link de datasets aquí subidos, en vez de un path relativo._
