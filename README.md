@@ -91,34 +91,24 @@ Además de los siguientes correctores:
 
 ## Estructura
 
-Se utiliza el siguiente estilo:
+Se utiliza el siguiente modelo de directorios:
 ```
 ├─ media/
-│
-└─ TPs/
-   ├─ TP1/
-   │   ├─ Datasets/
-   │   ├─ chp1.ipynb
-   │   ├─ chp2.ipynb
-   │   └─ [...]
-   │
-   └─ TP2/
-       └─ [...]
-```
-
-Se consideró una separación de modo:
-```
 ├─ TP1/
 │   ├─ Datasets/
+│   │
 │   ├─ Checkpoint 1/
 │   │   ├─ *.ipynb
+│   │   ├─ reporte.pdf
 │   │   └─ [...]
 │   │
 │   ├─ Checkpoint 2/
+│   │   └─ [...]
 │   │
 │   └─ [...]
 │
+└─ TP2/
+    └─ [...]
 ```
 
-pero esto confundiría a los archivos `.ipynb` en donde cada uno tendría un _path_ distinto a los datasets. Por ello se resolvió dejarlos sueltos en un lugar en común.
-* _En algunos casos quizás usemos directamente el link de datasets aquí subidos, en vez de un path relativo._
+Donde preferiremos utilizar links absolutos a datasets subidos aquí en el repositorio pero, de ser posible dejaremos líneas comentadas sobre cómo se importaría el dataset "localmente" si se ejecutase la notebook con el modelo de arriba.
